@@ -112,8 +112,8 @@ nav ul li a {
 }
 
 .method {
-    background-color: #f9f9f9;
-    padding: 150px 0px 50px 120px;
+    background-color: #ffffff;
+    padding: 150px 0px 50px 0px;
     text-align: left;
 }
 
@@ -199,15 +199,15 @@ nav ul li a {
 }
 
 .part_two {
-    padding-top: 350px;
+    padding-top: 300px;
     max-width: 400px;   
 }
 
 .girl {
     position: absolute;
     height: auto;
-    right: 450px;
-    top: 2330px;
+    right: 400px;
+    top: 2275px;
     }
 
 .senior-care {
@@ -216,6 +216,8 @@ nav ul li a {
     padding-top: 120px;
     padding-left: 100px;
     text-align: left;
+    padding-top: 250px;
+    padding-bottom: 350px;
     }
 
 .senior-care h2 {
@@ -223,20 +225,22 @@ nav ul li a {
     }
 
 .senior-care p {
-    max-width: 400px;
+    font-size: 20px;
+    color: #666;
     }
 
 .pensia {
     position: absolute;
     width: 800px;
     height: auto;
-    top: 2850px;
-    right: 300px;
+    top: 2750px;
+    right: 200px;
+    padding-top: 250px;
     }
         
 .team {
     background-color: #211f80;
-    padding: 60px 50px;
+    padding: 120px 50px;
     padding-top: 130px;
     text-align: center;
     }
@@ -260,7 +264,7 @@ nav ul li a {
     width: 1300px;
     height: auto;
     right: 280px;
-    top: 3700px;
+    top: 4050px;
     }
         
 .faq {
@@ -289,6 +293,7 @@ nav ul li a {
     max-width: 1200px;
     margin: 0 auto;
     padding: 40px 20px;
+    padding-top: 250px;
     background-color: #f8fafc;
     }
 
@@ -354,7 +359,7 @@ nav ul li a {
 .footer-top {
   display: flex;
   justify-content: space-between;
-  align-items: center; /* Это выравнивает лого и навигацию по одной линии */
+  align-items: center;
   margin-bottom: 30px;
 }
 
@@ -365,7 +370,7 @@ nav ul li a {
 
 .footer-socseti {
     position: absolute;
-    top: 5330px;
+    top: 5970px;
     
 }
 
